@@ -1,11 +1,11 @@
 name: "PartA"
 title: "Part A"
-output_dir: "docs"
+output_dir: "../docs/partA"
 navbar:
   title: "PART A"
   left:
     - text: "Back to Main"
-      href: https://www.stackoverflow.com
+      href: https://thuisman.github.io/hello-world
 output:
   html_document:
     theme: cosmo

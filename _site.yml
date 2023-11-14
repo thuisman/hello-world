@@ -5,9 +5,9 @@ navbar:
   title: "Home"
   left:
     - text: "Part A"
-      href: https://www.stackoverflow.com
+      href: https://thuisman.github.io/hello-world/partA
     - text: "Part B"
-      href: https://www.stackoverflow.com
+      href: https://thuisman.github.io/hello-world/partB
 output:
   html_document:
     theme: cosmo

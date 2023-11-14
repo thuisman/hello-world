@@ -1,0 +1,13 @@
+name: "MainTest"
+title: "Main test"
+output_dir: "docs"
+navbar:
+  title: "Home"
+  left:
+    - text: "Part A"
+      href: https://www.stackoverflow.com
+    - text: "Part B"
+      href: https://www.stackoverflow.com
+output:
+  html_document:
+    theme: cosmo

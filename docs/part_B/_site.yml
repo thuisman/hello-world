@@ -1,0 +1,11 @@
+name: "PartB"
+title: "Part B"
+output_dir: "docs"
+navbar:
+  title: "PART B"
+  left:
+    - text: "Back to Main"
+      href: https://www.stackoverflow.com
+output:
+  html_document:
+    theme: cosmo
